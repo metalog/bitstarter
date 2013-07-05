@@ -1,0 +1,11 @@
+# Submit assignments
+*submit.*
+# Generic
+*.log
+*~
+*.bak
+*.old
+
+# MacOS
+.DS_Store
+
